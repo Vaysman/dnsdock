@@ -1,3 +1,4 @@
+[![](https://badge.imagelayers.io/vaysman/dnsdock:latest.svg)](https://imagelayers.io/?images=vaysman/dnsdock:latest 'Get your own badge on imagelayers.io')
 [![Build Status](https://secure.travis-ci.org/tonistiigi/dnsdock.png)](http://travis-ci.org/tonistiigi/dnsdock)
 
 
