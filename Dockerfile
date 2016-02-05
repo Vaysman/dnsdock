@@ -1,3 +1,3 @@
 FROM scratch
-ADD bin/dnsdosk /dnsdock
+ADD bin/dnsdock /dnsdock
 CMD ["/dnsdock"]
