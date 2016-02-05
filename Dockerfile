@@ -1,3 +1,3 @@
 FROM scratch
-ADD bin/dnsdock /dnsdock
-CMD ["/dnsdock"]
+COPY bin/dnsdock /dnsdock
+ENTRYPOINT ["/dnsdock"]
